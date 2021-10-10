@@ -516,10 +516,10 @@ footer .footer-bottom .footer-text p{
     padding: 0 440px;
     padding-top: 28px;
 }
-footer .footer-bottom .footer-text span{
+footer .footer-bottom .footer-text a span{
     color: #fff;
 }
-footer .footer-bottom .footer-text span:hover{
+footer .footer-bottom .footer-text a span:hover{
     color: var(--brand);
 }
 /*==============
